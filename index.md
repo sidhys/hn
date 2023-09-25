@@ -1,5 +1,4 @@
-apush notes!! (mackay)
-
+note
 
 <style>
   .footer {
