@@ -1,4 +1,4 @@
-apush notes!! (mackay)
+notes !
 
 
 <style>
